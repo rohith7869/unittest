@@ -58,9 +58,9 @@ class TestAssignment {
     @Test
     void testGetSolution() {
         Solution solution = new Solution();
-        solution.theAuthor = "suhas";
+        solution.theAuthor = "Rohith";
         assignment.addSolution(solution);
-        assertEquals(solution, assignment.getSolution("suhas"));
+        assertEquals(solution, assignment.getSolution("Rohith"));
     }
 
     @Test

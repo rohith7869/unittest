@@ -4,55 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c83ed8df-69e5-4aeb-9871-55550e387c1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CourseInfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InsInfor.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuInfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCourse.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/AssignmentMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/ClassCourseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/CourseIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/CourseMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/CourseSelectDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Hacs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/HighLevelCourseMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/InstructorAssignmentMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/ListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/LowLevelCourseMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/NodeVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Reminder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/ReminderVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/SolutionGradingDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/SolutionIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/SolutionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/SolutionMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/StudentAssignmentMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hacs/UserInfoItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hacs/TestAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hacs/TestClassCourseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hacs/TestCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hacs/TestCourseIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hacs/TestFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hacs/TestInstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hacs/TestSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hacs/TestSolutionIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hacs/TestStudent.java" afterDir="false" />
+    <list default="true" id="c83ed8df-69e5-4aeb-9871-55550e387c1c" name="Changes" comment="final Commit!">
+      <change beforePath="$PROJECT_DIR$/src/test/java/hacs/TestAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hacs/TestAssignment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +96,16 @@
       <option name="presentableId" value="Default" />
       <updated>1667524343740</updated>
       <workItem from="1667524346053" duration="14340000" />
+      <workItem from="1667541691386" duration="347000" />
     </task>
+    <task id="LOCAL-00001" summary="final Commit!">
+      <created>1667541967507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667541967507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,5 +121,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final Commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="final Commit!" />
   </component>
 </project>
